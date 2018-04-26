@@ -1,0 +1,34 @@
+﻿  Table.cpp
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\ball.h(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Movement.cpp
+  main.cpp
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\ball.h(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(52): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(53): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(54): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(55): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(56): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(57): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(58): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(59): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(61): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(62): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(63): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(64): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(65): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(66): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(67): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(69): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(177): warning C4244: '=': conversion from 'time_t' to 'GLfloat', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\main.cpp(269): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Collisions.cpp
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\ball.h(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\collisions.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  Ball.cpp
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\ball.h(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\ball.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+h:\uni\year 2 level 2\trimester 2\interactive physical modelling\ipm pool\ipm pool\collisions.cpp(50): warning C4715: 'Collisions::Collisions_Detect_Circle_Box': not all control paths return a value
+  LINK : H:\uni\year 2 level 2\trimester 2\Interactive Physical Modelling\IPM Pool\Debug\IPM Pool.exe not found or not built by the last incremental link; performing full link
+  IPM Pool.vcxproj -> H:\uni\year 2 level 2\trimester 2\Interactive Physical Modelling\IPM Pool\Debug\IPM Pool.exe
